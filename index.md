@@ -19,5 +19,6 @@ Just nobody.
 
  * [Joky Pencil Puzzles World](http://jokypencilpuzzlesworld.blogspot.tw/)
  * [NeiHu Junior High School](http://www.nhjh.tp.edu.tw/)
-
+ * [朋友1](http://cnamexdyyy.hhtpe.me/)
+ * [朋友2](https://nondayo.github.io/myrepo/)
 - - -
