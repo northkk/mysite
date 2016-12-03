@@ -4,9 +4,9 @@ layout: default
 
 ![avatar](8831561.jpg)
 
-# Kirby
+# Joky
 
-A Nintendo Character
+A very stupid teacher in Neihu junior high school.
 
 - - -
 
